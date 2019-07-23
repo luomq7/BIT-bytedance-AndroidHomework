@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content">
+    <!--<com.example.chanyue.bean.DotsView-->
+        <!--android:id="@+id/vDotsView"-->
+        <!--android:layout_width="70dp"-->
+        <!--android:layout_height="70dp"-->
+        <!--android:layout_gravity="center"/>-->
+
+    <!--<com.example.chanyue.bean.CircleView-->
+        <!--android:id="@+id/vCircle"-->
+        <!--android:layout_width="40dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--/>-->
+    <!--<ImageView-->
+        <!--android:id="@+id/ivLike"-->
+        <!--android:layout_width="35dp"-->
+        <!--android:layout_height="35dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:src="@drawable/img"/>-->
+    <!--<com.example.chanyue.bean.Like-->
+        <!--android:id="@+id/like"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/img"/>-->
+
+    <!--</com.example.chanyue.bean.Like>-->
+
+</merge>
